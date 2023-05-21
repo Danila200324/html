@@ -1,0 +1,16 @@
+#links, #search {
+    display: none;
+}
+
+#container, #lewakolumna, #prawakolumna {
+    width: 100%;
+}
+
+body {
+    font-size: 15px;
+}
+
+#image1 {
+    width: 50%;
+    height: 50%;
+}
